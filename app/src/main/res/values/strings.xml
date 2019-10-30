@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AppCalcAutonomiaVeiculosv2</string>
+    <string name="data_abastecimento">28/10/2019</string>
+    <string name="litros_abastecidos">10.2</string>
+    <string name="imglogoposto">imglogoposto</string>
+    <string name="lbl_km_total_do_ve_culo">KM total do veículo:</string>
+    <string name="total_km_veiculo">34000</string>
+    <string name="litros">L</string>
+    <string name="data_do_abastecimento">Data do abastecimento:</string>
+    <string name="result_autonomia">0,0</string>
+    <string name="unidade_medida_autonomia">KM/L</string>
+    <string name="texto_botao_abastecimento">Abastecimentos</string>
+    <string name="lbl_data_abastecimento">Data do abastecimento:</string>
+    <string name="lbl_litros_abastecidos">Litros abastecidos:</string>
+    <string name="lbl_quilometragem_total_veiculo">Quilometragem total do veículo:</string>
+    <string name="btn_excluir">Excluir</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="lbl_camera">Câmera</string>
+
+    <string-array name="opcoes_posto">
+        <item>Ipiranga</item>
+        <item>Petrobras</item>
+        <item>Shell</item>
+        <item>Texaco</item>
+        <item>Outros</item>
+    </string-array>
+</resources>
